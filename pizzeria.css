@@ -35,7 +35,7 @@ footer a {
 li:hover{
     background-color: #009900;
 }
-li:visited{
+li:focus{
     background-color: #009900;
 }
 
