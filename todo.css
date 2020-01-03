@@ -1,0 +1,30 @@
+body{
+    background-color: #000099;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+ul li{
+    padding: 10px ;
+    border: solid 1px;
+    margin: 10px ;
+    background-color: white;
+    border-radius: 5px;
+    list-style-type: none;
+}
+
+input[type="text"]{
+    border: solid 1px;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+input[type="submit"]{
+    padding: 10px;
+    border-radius: 8px ;
+}
