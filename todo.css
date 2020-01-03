@@ -8,11 +8,14 @@ h1{
     text-align: center;
     color: white;
 }
-
+ul{
+    padding-left: 0px;
+}
 ul li{
     padding: 10px ;
     border: solid 1px;
-    margin: 10px ;
+    margin: 10px  ;
+   
     background-color: white;
     border-radius: 5px;
     list-style-type: none;
